@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVC-Example</string>
+
+    <string name="txt_name">Name :</string>
+    <string name="txt_roll">Roll no :</string>
+    <string name="txt_example_no">Example no :</string>
+    <string name="txt_example_name">Example name :</string>
+</resources>

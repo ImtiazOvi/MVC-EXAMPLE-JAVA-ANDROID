@@ -1,0 +1,2 @@
+rootProject.name='MVC-Example'
+include ':app'
